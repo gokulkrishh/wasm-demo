@@ -1,4 +1,4 @@
-# wasm-demo
+# [wasm-demo](https://hungry-knuth-07c061.netlify.com/hello.html)
 
 > Demo for wasm intro talk!
 
